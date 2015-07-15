@@ -7,7 +7,7 @@ class Hello{
 	}
 	
 	class murali
-	{ void murali() {
+	{ void krishna() {
 		system.out.println("this is murali");
 	}
    }
